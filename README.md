@@ -4,6 +4,16 @@ Hi 👋, I'm Aaron Acuña Alarcon (Jenay)
 - 📚 I am a software engineering student at the UPC.
 - 📫 How to reach me **aaronacu_85@hotmail.com**
 
+### Knowledge
+
+- Development of applications mobiles in .NET MAUI.
+- Development of applications and web services in ASP NET CORE.
+- Development of web services in Spring Boot Java.
+- Development of desktop applications in .NET Windows Form.
+- Development under the Domain Driven Design approach.
+- Development with software architecture.
+- Development with software pattern.
+
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
