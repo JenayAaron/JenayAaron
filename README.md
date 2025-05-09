@@ -23,14 +23,14 @@
 
 ### Skills
 
-- Development of applications mobiles in .NET MAUI 8.
+- Development of applications mobiles in flutter.
 - Development of applications and web services in ASP NET CORE 8.
 - Development of web services in Spring Boot Java 22.
 - Development of desktop applications in .NET Windows Form.
 - Development under the Domain Driven Design approach.
 - Development with software architecture.
 - Development with software pattern.
-- Development with SCRUM methodology.
+- Development with Agile methodology.
 
 ---
 
